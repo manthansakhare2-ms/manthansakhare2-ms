@@ -13,7 +13,7 @@
 - 🔭 I'm currently working on **full-stack web applications**
 - 🌱 I'm currently learning **advanced Django REST & React patterns**
 - 💬 Ask me about **Python, Django, React, MySQL, HTML & CSS**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **manthansakhare2@gmail@example.com**
 - ⚡ Fun fact: I love turning ideas into real web apps!
 
 ---
