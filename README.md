@@ -41,7 +41,7 @@ class ManthanSakhare:
 <img src="https://skillicons.dev/icons?i=python,django,java,mysql&theme=dark" />
 
 ### 🧩 DSA & Tools
-<img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 
 </div>
 
