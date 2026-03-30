@@ -53,7 +53,7 @@ class ManthanSakhare:
 
 <img src="https://github-readme-stats.vercel.app/api?username=manthansakhare2-ms&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="180" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manthansakhare2-ms&theme=tokyonight&hide_border=true&background=0D1117" height="180" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=manthansakhare2-ms&theme=tokyonight&hide_border=true&background=0D1117" height="180" /> -->
 
 </div>
 
