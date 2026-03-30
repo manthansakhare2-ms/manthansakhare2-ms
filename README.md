@@ -66,17 +66,6 @@ class ManthanSakhare:
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=manthansakhare2-ms&theme=tokyonight&no-frame=true&margin-w=6&column=7" />
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
