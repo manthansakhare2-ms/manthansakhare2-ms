@@ -14,7 +14,6 @@
 - 🌱 I'm currently learning **advanced Django REST & React patterns**
 - 💬 Ask me about **Python, Django, React, MySQL, HTML & CSS**
 - 📫 Reach me at: **manthansakhare2@gmail.com**
-- 
 - ⚡ Fun fact: I love turning ideas into real web apps!
 
 ---
@@ -52,13 +51,10 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/manthan-sakhare-939a7a3a1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:manthansakhare2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
