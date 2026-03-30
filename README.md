@@ -20,8 +20,8 @@
 class ManthanSakhare:
     name       = "Manthan Sakhare"
     role       = "Full-Stack Developer"
-    location   = "Maharashtra, India 🇮🇳"
-    stack      = ["Python", "Django", "React", "MySQL", "HTML", "CSS"]
+    location   = "Karnataka, India 🇮🇳"
+    stack = ["Python", "Django", "React", "MySQL", "HTML", "CSS", "Java", "DSA"]
     currently  = "Building awesome full-stack web applications"
     learning   = ["Django REST Framework", "React Advanced Patterns"]
     goal       = "To create impactful software that solves real problems"
