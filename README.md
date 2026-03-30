@@ -57,11 +57,11 @@ class ManthanSakhare:
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthansakhare2-ms&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="160" />
 
-</div>
+</div> -->
 
 ---
 
