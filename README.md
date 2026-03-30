@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Manthan%20Sakhare&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20React&descAlignY=55&descSize=18" />
 
-</div>
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hey!+I'm+Manthan+Sakhare+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Python+%2B+Django+%2B+React+Developer;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
@@ -76,7 +72,7 @@ class ManthanSakhare:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=manthansakhare2-ms&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=manthansakhare2-ms&theme=tokyonight&no-frame=true&margin-w=6&column=7" />
 
 </div>
 
@@ -86,13 +82,7 @@ class ManthanSakhare:
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manthansakhare2-ms/manthansakhare2-ms/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manthansakhare2-ms/manthansakhare2-ms/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/manthansakhare2-ms/manthansakhare2-ms/output/github-contribution-grid-snake.svg" />
-</picture>
-
-> ⚠️ Snake appears after running the GitHub Action — [setup guide here](#)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
